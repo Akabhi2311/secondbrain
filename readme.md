@@ -1,22 +1,9 @@
 ````markdown
 # 🧠 SecondBrain — AI Powered Personal Knowledge Assistant
 
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)
-![Firebase](https://img.shields.io/badge/Firebase-Authentication-ffca28?style=for-the-badge&logo=firebase)
-![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python)
-![RAG](https://img.shields.io/badge/RAG-Powered-purple?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-VectorDB-red?style=for-the-badge)
-
 ### 🚀 Your Personal AI Second Brain
 
 Upload PDFs → Chat with Documents → Generate Quizzes → Track Learning → Build an AI Knowledge Space
-
-</div>
-
----
 
 # ✨ Overview
 
@@ -501,8 +488,8 @@ AI Generated Response
 
 ---
 
-# 📸 Screenshots
-
+# 📸 Screenshots attached of Dashboard, Chat Interface, Upload System and My Space
+# https://github.com/Akabhi2311/secondbrain/tree/main/screenshots
 ## Dashboard
 
 Modern AI analytics dashboard with:
@@ -574,9 +561,9 @@ This project helped explore:
 # 👨‍💻 Author
 
 ## Abhishek Singh
+## Aditya Raj
 
 AI Enthusiast • Full Stack Developer • Problem Solver
-
 ---
 
 # ⭐ Support
